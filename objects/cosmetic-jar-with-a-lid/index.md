@@ -2,7 +2,7 @@
 author: student name
 title: "Cosmetic Jar With A Lid"
 layout: base
-header-image: images/cosmetic-jar-with-a-lid.jpg
+header-image: images/cosmetic-jar-2.jpeg
 thumbnail: images/cosmetic-jar-with-a-lid.jpg
 summary: Cosmetic jar from the 6th century Byzantine. Uses luxurious materials.
 geo: [31.777, 35.224]
