@@ -1,6 +1,6 @@
 ---
 author: student name
-title: "Glass Flask"
+title: "Glass Multiple Cosmetic Flask"
 layout: base
 header-image: images/glass-flask.jpg
 thumbnail: images/glass-flask.jpg
@@ -11,7 +11,7 @@ tags:
   - object
 ---
 
-# Glass Flask
+# Glass Multiple Cosmetic Flask
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
@@ -22,7 +22,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="Picture of the cosmetic flask from the Met Museum. [Source](https://www.metmuseum.org/art/collection/search/256750)"
 image-path="images/glass-flask.jpg"
 %}
 
