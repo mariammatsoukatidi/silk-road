@@ -1,17 +1,17 @@
 ---
 author: student name
-title: "Glass Flask"
+title: "Tang Dynasty Girl Holding A Mirror"
 layout: base
-header-image: images/glass-flask.jpg
-thumbnail: images/glass-flask.jpg
-summary: Glass flask from Syrian/Roman culture.
+header-image: images/tang-dynasty-seated-girl-holding-a-mirror
+thumbnail: images/tang-dynasty-seated-girl-holding-a-mirror
+summary: Figurine from the Tang Dynasty era featuring a girl applying makeup.
 geo: [39.877, 64.408]
 placename: Bukhara
 tags:
   - object
 ---
 
-# Glass Flask
+# Tang Dynasty Girl Holding A Mirror
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
