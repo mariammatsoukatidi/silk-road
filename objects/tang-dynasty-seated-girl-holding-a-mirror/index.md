@@ -2,7 +2,7 @@
 author: student name
 title: "Tang Dynasty Girl Holding A Mirror"
 layout: base
-header-image: images/tang-dynasty-seated-girl-holding-a-mirror.jpg
+header-image: images/seated-girl.jpeg
 thumbnail: images/tang-dynasty-seated-girl-holding-a-mirror.jpg
 summary: Figurine from the Tang Dynasty era featuring a girl applying makeup.
 geo: [39.877, 64.408]
