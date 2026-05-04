@@ -13,20 +13,18 @@ tags:
 
 # Tang Dynasty Girl Holding A Mirror
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+This figurine from the 8th century features a girl who is holding a mirror and gazing into it, that reflects as a part of social identity within higher and more rich societies. It is an earthenware figurine, decorated with three-color lead glaze. It serves as a significant record of the "fashion culture” and elite beauty rituals of the Tang Dynasty. During this era, the Silk Road reached a historical peak, transforming the capital of Chang’an into a cosmopolitan hub where "luxury and refinement" were defined by access to imported goods (Jones, 2000). 
 
 
 ## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="Figurine of the Tang Dynasty Seated Girl Holding a Mirror from the Art Institute of Chicago. [Source](https://www.artic.edu/artworks/37729/seated-girl-holding-mirror)"
 image-path="images/tang-dynasty-seated-girl-holding-a-mirror.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+The figure may be in a process of applying cosmetics, which included mineral pigments that were imported from Persia (now Iran) and Central Asia (Art Institute of Chicago, 1.1). Elite women often utilized white lead powders and floral rouges to achieve a specific aesthetic of pale skin and vibrant lips. Those ingredients were traded all across the route, moving from Middle East to China along with silk and spices (King, 2022).
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
