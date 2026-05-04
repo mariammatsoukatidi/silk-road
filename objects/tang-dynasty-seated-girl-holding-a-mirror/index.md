@@ -16,7 +16,7 @@ tags:
 This figurine from the 8th century features a girl who is holding a mirror and gazing into it, that reflects as a part of social identity within higher and more rich societies. It is an earthenware figurine, decorated with three-color lead glaze. It serves as a significant record of the "fashion culture” and elite beauty rituals of the Tang Dynasty. During this era, the Silk Road reached a historical peak, transforming the capital of Chang’an into a cosmopolitan hub where "luxury and refinement" were defined by access to imported goods (Jones, 2000). 
 
 
-## Your First Section Heading
+## Aesthetic and Trade
 {% include images/figure.html
 class="right"
 width="48%"
@@ -24,13 +24,13 @@ caption="Figurine of the Tang Dynasty Seated Girl Holding a Mirror from the Art 
 image-path="images/tang-dynasty-seated-girl-holding-a-mirror.jpg"
 %}
 
-The figure may be in a process of applying cosmetics, which included mineral pigments that were imported from Persia (now Iran) and Central Asia (Art Institute of Chicago, 1.1). Elite women often utilized white lead powders and floral rouges to achieve a specific aesthetic of pale skin and vibrant lips. Those ingredients were traded all across the route, moving from Middle East to China along with silk and spices (King, 2022).
+The figure may be in a process of applying cosmetics, which included mineral pigments that were imported from Persia (now Iran) and Central Asia (Art Institute of Chicago, 1.1). Elite women often utilized white lead powders and floral rouges to achieve a specific aesthetic of pale skin and vibrant lips. 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+Those ingredients were traded all across the route, moving from Middle East to China along with silk and spices (King, 2022).[^https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606]
 
 [^randomthing]:Put your source information here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+Also, the figurine itself is a part of those trade works. The three-color glaze was resulted by chemical exchanged between East and West, primary using cobalt oxide, copper oxide and the amber from iron oxide to get the colors.  The last two were used in kohl cosmetics, for example (McMullen and Dell’Acqua). That means that the same minerals that were traded were used not only for beauty, but opened a new opportunity of use in ceramic world.
 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
 
