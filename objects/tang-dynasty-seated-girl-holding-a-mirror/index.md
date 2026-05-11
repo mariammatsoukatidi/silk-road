@@ -26,7 +26,7 @@ image-path="images/tang-dynasty-seated-girl-holding-a-mirror.jpg"
 
 The figure may be in a process of applying cosmetics, which included mineral pigments that were imported from Persia (now Iran) and Central Asia (Art Institute of Chicago, 1.1). Elite women often utilized white lead powders and floral rouges to achieve a specific aesthetic of pale skin and vibrant lips. 
 
-Those ingredients were traded all across the route, moving from Middle East to China along with silk and spices (King, 2022).[^https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606]
+Those ingredients were traded all across the route, moving from Middle East to China along with silk and spices (King, 2022).[^]
 
 [^randomthing]:Put your source information here.
 
