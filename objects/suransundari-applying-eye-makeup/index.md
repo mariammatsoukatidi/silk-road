@@ -5,55 +5,53 @@ layout: base
 header-image: images/suransundari-applying-eye-makeup.png
 thumbnail: images/suransundari-applying-eye-makeup.png
 summary: A statue of Suransundari applying makeup. Is a part of Parshvanatha Jain Temple in central India.
-geo: [31.777, 35.224]
-placename: Jerusalem
+geo: [24.845, 79.937]
+placename: Khajuraho
 tags:
   - object
 ---
 
 # Suransundari Applying Eye Makeup
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+Dating back to 10th-century India, the Parshvanatha Jain Temple relief carving of a Surasundari (heavenly beauty) is the first known depiction of “cosmetic history” in medieval South Asia. She applies eye makeup with her left hand, while she holds a long, thin brush in her right. Her pose, called Tribhanga (three bends) is an artistic exaggeration of a beautiful woman. India served as both a source of aromatic plants such as sandalwood and patchouli used in perfumes and fragrances and also a large consumer of mineral-based pigments (King, p. 12). 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+As we see here, “beauty routines were an important factor of social standing,” not just among the people of India but throughout the vast array of cultures connected in the medieval world (Caballero-Navas, p. 45).
 
 
-## Your First Section Heading
+## The Parashvanatha Temple
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="A photograph of the sculpture, part of the Parshvanatha Temple [Source](https://en.wikipedia.org/wiki/Parshvanatha_temple,_Khajuraho)"
 image-path="images/suransundari-applying-eye-makeup.png"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Built around 950 AD – 970 AD during the golden years of the Chandella Empire, the Parshvanatha Temple is the largest and best example of Jain architecture in Khajuraho. It is built in the traditional Nagara architectural design of Northern India and its main feature is a tall, curved tower (Shikhar), which represents the ascending journey of the human soul towards ultimate salvation.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+Another reason why the Parshvanatha Temple is so special in terms of the religious unity of the time is because of its unification of spiritual ideas. While it is primarily a Jain temple, it has three bands of sculpted figures on the outside walls that depict both Jain mythology and Vaishnava Hindu mythological characters including Vishnu and Lakshm. [^randomthing]
 
 [^randomthing]:Put your source information here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+Unlike the Western group of Khajuraho Temples that are well-known for their explicit sexual representations, the Parshvanatha Temple focuses extensively on scenes of every day living such as music, love and domestic luxury. The wall reliefs act as a canvas that visually connects the daily life (Samsara) and spiritual liberation (Moksha) together (Jones, p. 88).
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+[^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Jianism
+To fully appreciate the Surasundari painting her face at a Jain temple you need to know about the foundational principles of Jainism. Jainism is a non-theistic religion whose central ideals include: ahimsa (non-violence), aparigraha (non-acquisition), and self-denial. Ultimately, all Jains strive to eliminate their attachment to worldly karma to ultimately reach Moksha (salvation/liberation) to join the Tirthankaras, the twenty-four supreme spiritual leaders who crossed the ocean of birth/rebirth. Originally this temple was dedicated to Adinatha (the First Tirthankara) prior to being rededicated to Parshvanatha (the Twenty-third Tirthankara) who is typically depicted under a protective canopy formed by a seven-headed snake.
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+Although Jainism is known for its extreme asceticism, especially among members of the Digambara (“Sky-clad”) sect that traditionally managed the Khajuraho temple complex, images of beauty found in Jain temple art do celebrate the beauty of nature and heaven. In Jain cosmology, Surasundris and Apsaras are heavenly maidens that reside in the heavens. Their inclusion on the temple walls was not intended to promote vanity or sensual enjoyment (Jones, p. 92). Rather, their physical attractiveness, grooming habits and complete elegance represent a person’s inner purity when they align themselves with the universe’s cosmic balance and harmony (Jones, p. 94).
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Cosmetics Technology and Globalized Material Exchange
+The image depicts the “romantic ambiance” and fashionable culture of the time where applying make-up was a visible signifier of one’s status within society. When an artist portrays a goddess performing a beauty routine on a sacred monument they validate that beauty practices had become integrated into both cultural and spiritual aspects of society in 10th Century (Jones, p. 105). Additionally, “techniques of preparation” for cosmetics were commonly shared by “medieval women” of various religions and geographic areas demonstrating that the Silk Road was used to transfer tangible cultural knowledge as well as physical goods (Caballero-Navas, p. 52).
 
 {% include typography/aside.html class="right" text="
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+In addition to being a representation of grooming practices, the figurative device employed by artists to show these activities serves as a reference library for materials transferred via Indian trade networks. The “stylist” she uses to paint her eyes would be fashioned out of bone, ivory or metal – tools that are examples of material exchanged. Since India was the original source of many of the scented oils referenced in historic accounts this image shows the domestic use of products India traded internationally (King, p. 18). It illustrates how the “spreading along routes” of cosmetic practices developed a common aesthetic vocabulary that linked Jain temples in India to Palaces in China and Courts in Byzantium (Jones, p. 110; King, p. 22).
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
