@@ -22,10 +22,15 @@ As we see here, “beauty routines were an important factor of social standing,�
 {% include images/figure.html
 class="right"
 width="48%"
-caption="A photograph of the sculpture, part of the Parshvanatha Temple [Source](https://en.wikipedia.org/wiki/Parshvanatha_temple,_Khajuraho)"
+caption="A photograph of the sculpture, part of the Parshvanatha Temple. [Source](https://en.wikipedia.org/wiki/Parshvanatha_temple,_Khajuraho)"
 image-path="images/suransundari-applying-eye-makeup.png"
 %}
-
+{% include images/figure.html
+class="right"
+width="48%"
+caption="Parashvanatha Temple. [Source](https://en.wikipedia.org/wiki/Parshvanatha_temple,_Khajuraho)"
+image-path="images/temple-india-jpeg.png"
+%}
 Built around 950 AD – 970 AD during the golden years of the Chandella Empire, the Parshvanatha Temple is the largest and best example of Jain architecture in Khajuraho. It is built in the traditional Nagara architectural design of Northern India and its main feature is a tall, curved tower (Shikhar), which represents the ascending journey of the human soul towards ultimate salvation.
 
 Another reason why the Parshvanatha Temple is so special in terms of the religious unity of the time is because of its unification of spiritual ideas. While it is primarily a Jain temple, it has three bands of sculpted figures on the outside walls that depict both Jain mythology and Vaishnava Hindu mythological characters including Vishnu and Lakshm. [^randomthing]
