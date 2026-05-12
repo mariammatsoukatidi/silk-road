@@ -13,10 +13,10 @@ tags:
 
 # Tang Dynasty Girl Holding A Mirror
 
-This figurine from the 8th century features a girl who is holding a mirror and gazing into it, that reflects as a part of social identity within higher and more rich societies. It is an earthenware figurine, decorated with three-color lead glaze. It serves as a significant record of the "fashion culture” and elite beauty rituals of the Tang Dynasty. During this era, the Silk Road reached a historical peak, transforming the capital of Chang’an into a cosmopolitan hub where "luxury and refinement" were defined by access to imported goods (Jones, 2000). 
+The figurine, made from terracotta and adorned in the three-color (sancai) lead-glazed colors, signifies an important juncture in the development of the "culture of fashion" of the Tang dynasty in the eighth century (Screenshot 12.35.00). At the time, Chang'an, the cosmopolitan capital city of the Tang dynasty, had a "chemical highway" known as the Silk Road that introduced exotic beauty standards and new materials into the center of China, not simply as a trade route for silk (King, 12). The figurine shows a woman alone in a private moment of primping and combing her hair while she holds a mirror, suggesting that there existed an awareness of one's appearance and social identity among elite women of the period (Caballero-Navas, 45). During what historians have referred to as the "Golden Age" of Tang society, individuals' pursuit of "refinement and luxury" represented both a personal interest and a visual representation of the imperial government's wealth and power (Jones, 110). 
 
 
-## Aesthetic and Trade
+## Chemistry behind Sancai and Beauty Products
 {% include images/figure.html
 class="right"
 width="48%"
@@ -24,29 +24,30 @@ caption="Figurine of the Tang Dynasty Seated Girl Holding a Mirror from the Art 
 image-path="images/tang-dynasty-seated-girl-holding-a-mirror.jpg"
 %}
 
-The figure may be in a process of applying cosmetics, which included mineral pigments that were imported from Persia (now Iran) and Central Asia (Art Institute of Chicago, 1.1). Elite women often utilized white lead powders and floral rouges to achieve a specific aesthetic of pale skin and vibrant lips. 
+ Sancai glazing has a unique connection to the chemistry of ancient beauty products through its chemical history as well. Copper oxide (malachite) gave the glaze its bright green hue while iron oxide produced the yellowish-brown hues, both minerals obtained via trade routes similar to those for beauty products (McMullen & Dell’Acqua, 89). Lead flux was also applied to lower the melting temperature of silica (silicate) in order to create these vibrant colors. The application of lead in glazing was identical to the toxic application of powdered white lead in face paints to achieve a smooth and "porcelain-like" complexion (Walter et al., 74). 
 
-Those ingredients were traded all across the route, moving from Middle East to China along with silk and spices (King, 2022).[^]
+By the late seventh or early eighth century CE, members of Chinese elite moved from basic staining using plants to using long-lasting mineral-based formulas that would produce a much greater and more opaque effect than previous plant dyes (Walter et al., 76). .[^]
 
 [^randomthing]:Put your source information here.
 
-Also, the figurine itself is a part of those trade works. The three-color glaze was resulted by chemical exchanged between East and West, primary using cobalt oxide, copper oxide and the amber from iron oxide to get the colors.  The last two were used in kohl cosmetics, for example (McMullen and Dell’Acqua). That means that the same minerals that were traded were used not only for beauty, but opened a new opportunity of use in ceramic world.
+Additionally, this movement towards mineral-based beauty products was facilitated by western merchants who exported exotic raw materials, scented oils, and new beauty methods (King, 14).
 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Burial Practice and Legacy of the Silk Road
+As part of burial practice, this figurine served as mingqi (spirit goods) intended to support the deceased person throughout eternity. The Chinese viewed death as a continuation of the social hierarchy where the deceased needed all the necessary tools to provide for themselves in terms of "refinement and luxury" within the spiritual realm (Jones, 112).
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+It is especially important to recognize the significance of the mirror found here; mirrors were rare luxury items made from cast bronze and commonly decorated with floral patterns or animals originating from Persia and Central Asia. 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+Moreover, having her sitting upon a "waist-stool" symbolizes a great shift in how people lived domestically. During this period when there was so much interaction due to the Silk Road, foreigners imported furniture such as chairs and stools that eventually replaced mat-seating floors in homes.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+
+## Preparation Techniques
+Additionally, scholars have pointed out that "the preparation techniques and ingredients" for cosmetics employed by this young woman were often shared by medieval Jewish-Christian-Islamic women and thus demonstrate that beauty was a "commonality" among multiple civilizations (Caballero-Navas, 48). The detail required to create her coiffure-a "high-piled bun"-was accomplished using special hair oils and wax-setting agents that included aromatic substances delivered from Southeast Asia and the Middle East. Therefore, even everyday practices like styling hair illustrate how every aspect of daily life depended upon stable long-distance commercial activity. Overall, this figurine is a consumer at the very end of a global distribution network and exemplifies the fusion of ceramics technology, botanical knowledge, and international trade (King, 16; McMullen & Dell’Acqua, 92).
 
 {% include typography/aside.html class="right" text="
 This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
