@@ -1,6 +1,6 @@
 ---
 author: student name
-title: "Tang Dynasty Girl Holding A Mirror"
+title: "Seated Girl Holding A Mirror"
 layout: base
 header-image: images/tang-dynasty-girl.jpeg
 thumbnail: images/tang-dynasty-girl.jpeg
@@ -11,7 +11,7 @@ tags:
   - object
 ---
 
-# Tang Dynasty Girl Holding A Mirror
+# Seated Girl Holding A Mirror
 
 The figurine, made from terracotta and adorned in the three-color (sancai) lead-glazed colors, signifies an important juncture in the development of the "culture of fashion" of the Tang dynasty in the eighth century (Screenshot 12.35.00). At the time, Chang'an, the cosmopolitan capital city of the Tang dynasty, had a "chemical highway" known as the Silk Road that introduced exotic beauty standards and new materials into the center of China, not simply as a trade route for silk (King, 12). The figurine shows a woman alone in a private moment of primping and combing her hair while she holds a mirror, suggesting that there existed an awareness of one's appearance and social identity among elite women of the period (Caballero-Navas, 45). During what historians have referred to as the "Golden Age" of Tang society, individuals' pursuit of "refinement and luxury" represented both a personal interest and a visual representation of the imperial government's wealth and power (Jones, 110). 
 
