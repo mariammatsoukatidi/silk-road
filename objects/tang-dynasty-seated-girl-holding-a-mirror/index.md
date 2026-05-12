@@ -26,9 +26,9 @@ image-path="images/tang-dynasty-seated-girl-holding-a-mirror.jpg"
 
  Sancai glazing has a unique connection to the chemistry of ancient beauty products through its chemical history as well. Copper oxide (malachite) gave the glaze its bright green hue while iron oxide produced the yellowish-brown hues, both minerals obtained via trade routes similar to those for beauty products (McMullen & Dell’Acqua, 89). Lead flux was also applied to lower the melting temperature of silica (silicate) in order to create these vibrant colors. The application of lead in glazing was identical to the toxic application of powdered white lead in face paints to achieve a smooth and "porcelain-like" complexion (Walter et al., 74). 
 
-By the late seventh or early eighth century CE, members of Chinese elite moved from basic staining using plants to using long-lasting mineral-based formulas that would produce a much greater and more opaque effect than previous plant dyes (Walter et al., 76). .[^]
+By the late seventh or early eighth century CE, members of Chinese elite moved from basic staining using plants to using long-lasting mineral-based formulas that would produce a much greater and more opaque effect than previous plant dyes (Walter et al., 76). .[^Walter et al., 76]
 
-[^randomthing]:Put your source information here.
+[^Walter et al., 76]:[Physical Techniques in the Study of Art](https://www.sciencedirect.com/science/article/pii/S1871173106800060.)
 
 Additionally, this movement towards mineral-based beauty products was facilitated by western merchants who exported exotic raw materials, scented oils, and new beauty methods (King, 14).
 
