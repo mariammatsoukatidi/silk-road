@@ -5,20 +5,20 @@ layout: base
 header-image: images/glass-flask.jpg
 thumbnail: images/glass-flask.jpg
 summary: Glass flask from Syrian/Roman culture.
-geo: [39.877, 64.408]
-placename: Bukhara
+geo: [33.563, 35.369]
+placename: Sidon
 tags:
   - object
 ---
 
 # Glass Multiple Cosmetic Flask
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+This 5th century Roman/Syrian glass flask, which has four separate chambers, exemplifies the highest levels of sophistication in glassmaking technology, as well as the extreme attention to detail applied to meet consumer demands for “refined” and “luxurious” products. Advanced techniques employed include blown, tooled, and trailed glassmaking. As such, the flask represents the pinnacle of Syrian glassmaking, an industry whose products would be exported throughout the length of the Silk Road.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+The design of the multi-chambered flask reflects a desire among elite consumers for luxury items that could also provide organizational capabilities to store multiple types of mineral-based formulas or colors in a single, beautiful piece (Walter et al., 74). In addition to being aesthetically pleasing, the complexity of connecting multiple glass tubes necessitated precise control over temperatures during the blowing process; therefore, they were treasured possessions among the wealthy (Jones, 42).
 
 
-## Your First Section Heading
+## Composition and Usefulness as Medicine
 {% include images/figure.html
 class="right"
 width="48%"
@@ -26,25 +26,25 @@ caption="Picture of the cosmetic flask from the Met Museum. [Source](https://www
 image-path="images/glass-flask.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+The powder-based compositions stored in these tubes were made up of extremely sophisticated mineral-based formulas with both visual and practical uses (Walter et al., 76). Galena (lead sulfide), for example, was primarily used to produce deep blacks or malachite (copper carbonate) for a bright green eye cosmetic (McMullen and Dell’Acqua, 92). These powdered minerals were blended with oil or plant extract to make a uniform paste suitable for use as a cosmetic (McMullen and Dell’Acqua, 92).
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+ Many of the other components of the formulae, including certain resinous materials and floral extracts were traded via the Silk Road from Persia and Central Asia (King, 15).[^randomthing]
 
 [^randomthing]:Put your source information here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+Kohl was used for more than merely aesthetic reasons; it also provided a significant medical purpose. It functioned as a natural antimicrobial agent that protected the eyes from harmful bacteria, dust and sun damage, all typical environmental hazards in arid, dusty desert trade routes (Walter et al., 78).
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+Additionally, when properly prepared, the lead compounds in kohl increased the production of nitric oxide in the skin thereby enhancing the body's defense mechanisms against ocular pathogens (Walter et al., 80).[^anotherrandomthing]
 
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]:https://www.sciencedirect.com/science/article/pii/S1871173106800060
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Global Trade Routes and Collaborative Female Experience
+The glass vessel is tied to the Silk Road due to the fact that the distribution of Syrian glass vessels followed exactly the same routes as did the luxury spices and aromatic materials they contained (Jones, 45). Archaeological finds of similar glass vessels have been found in locations as remote as Korea and elite Chinese tombs, thus illustrating that objects associated with beauty practices were part of a globalized cultural network.
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+Additionally, "the preparation techniques and ingredients" for eye cosmetics were shared across cultures and religious traditions (Caballero-Navas, 60). Due to shared preparation techniques, women from diverse geographical regions developed standard practices for decorating their eyes, ultimately developing a widespread tradition spanning Egypt to East Asia (Caballero-Navas, 62; McMullen and Dell'Acqua, 95).
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+The trailing decoration on the yellow-green glass body not only provided an aesthetic appeal but allowed the user to maintain hold of the small vessel with her fingers while she used a stylus fashioned from bronze or bone to apply her eye cosmetic. Thus this decorative style illustrates that this artifact was a daily-use item that may have been transported by its owner during long trips along trade roads. Since minerals such as antimony and specialized oils are rare and geographically localized, evidence of these ingredients within these tubes provides clear documentation of the extensive commercial exchange between the Syrian glass kilns and remote mines located in the east. The tube serves as a testament to how women's concern for their appearance fostered innovations in glass-blowing technologies and initiated international trade in chemical raw materials.
 
 
 ## Pull Quotes Add Emphasis
