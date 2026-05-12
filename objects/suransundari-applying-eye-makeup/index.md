@@ -29,7 +29,7 @@ image-path="images/suransundari-applying-eye-makeup.png"
 class="right"
 width="48%"
 caption="Parashvanatha Temple. [Source](https://en.wikipedia.org/wiki/Parshvanatha_temple,_Khajuraho)"
-image-path="images/temple-india-jpeg.png"
+image-path="images/temple-india.jpeg"
 %}
 Built around 950 AD – 970 AD during the golden years of the Chandella Empire, the Parshvanatha Temple is the largest and best example of Jain architecture in Khajuraho. It is built in the traditional Nagara architectural design of Northern India and its main feature is a tall, curved tower (Shikhar), which represents the ascending journey of the human soul towards ultimate salvation.
 
