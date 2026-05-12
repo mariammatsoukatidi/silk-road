@@ -2,7 +2,7 @@
 author: student name
 title: "Suransundari Applying Eye Makeup"
 layout: base
-header-image: images/suransundari-applying-eye-makeup.png
+header-image: images/suransundari-2.jpeg
 thumbnail: images/suransundari-thumbnail.jpeg
 summary: A statue of Suransundari applying makeup. Is a part of Parshvanatha Jain Temple in central India.
 geo: [24.845, 79.937]
@@ -23,7 +23,7 @@ As we see here, â€œbeauty routines were an important factor of social standing,â
 class="right"
 width="48%"
 caption="A photograph of the sculpture, part of the Parshvanatha Temple. [Source](https://en.wikipedia.org/wiki/Parshvanatha_temple,_Khajuraho)"
-image-path="images/suransundari-applying-eye-makeup.png"
+image-path="images/suransundari-2.jpeg"
 %}
 {% include images/figure.html
 class="right"
