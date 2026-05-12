@@ -2,8 +2,8 @@
 author: student name
 title: "Tang Dynasty Girl Holding A Mirror"
 layout: base
-header-image: images/seated-girl.jpeg
-thumbnail: images/tang-dynasty-seated-girl-holding-a-mirror.jpg
+header-image: images/tang-dynasty-girl.jpeg
+thumbnail: images/tang-dynasty-girl.jpeg
 summary: Figurine from the Tang Dynasty era featuring a girl applying makeup.
 geo: [39.877, 64.408]
 placename: Bukhara
@@ -21,7 +21,7 @@ The figurine, made from terracotta and adorned in the three-color (sancai) lead-
 class="right"
 width="48%"
 caption="Figurine of the Tang Dynasty Seated Girl Holding a Mirror from the Art Institute of Chicago. [Source](https://www.artic.edu/artworks/37729/seated-girl-holding-mirror)"
-image-path="images/tang-dynasty-seated-girl-holding-a-mirror.jpg"
+image-path="images/tang-dynasty-girl.jpeg"
 %}
 
  Sancai glazing has a unique connection to the chemistry of ancient beauty products through its chemical history as well. Copper oxide (malachite) gave the glaze its bright green hue while iron oxide produced the yellowish-brown hues, both minerals obtained via trade routes similar to those for beauty products (McMullen & Dell’Acqua, 89). Lead flux was also applied to lower the melting temperature of silica (silicate) in order to create these vibrant colors. The application of lead in glazing was identical to the toxic application of powdered white lead in face paints to achieve a smooth and "porcelain-like" complexion (Walter et al., 74). 
