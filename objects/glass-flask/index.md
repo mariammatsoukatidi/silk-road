@@ -36,7 +36,7 @@ Kohl was used for more than merely aesthetic reasons; it also provided a signifi
 
 Additionally, when properly prepared, the lead compounds in kohl increased the production of nitric oxide in the skin thereby enhancing the body's defense mechanisms against ocular pathogens (Walter et al., 80).[^anotherrandomthing]
 
-[^anotherrandomthing]:https://www.sciencedirect.com/science/article/pii/S1871173106800060
+[^anotherrandomthing]:[Source] (https://www.sciencedirect.com/science/article/pii/S1871173106800060)
 
 
 ## Global Trade Routes and Collaborative Female Experience
