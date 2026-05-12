@@ -3,7 +3,7 @@ author: student name
 title: "Cosmetic Jar With A Lid"
 layout: base
 header-image: images/jar-3.jpeg
-thumbnail: images/cosmetic-jar-with-a-lid.jpg
+thumbnail: images/cosmetic-jar-with-a-lid-2.jpeg
 summary: Cosmetic jar from the 6th century Byzantine. Uses luxurious materials.
 geo: [41.008, 28.980]
 placename: Istanbul
@@ -21,7 +21,7 @@ This sixth century cosmetic jar represents some of the finest early Byzantine cr
 class="right"
 width="48%"
 caption="Cosmetic Jar with a Lid displayed at the Cleveland Museum of Art. [Source](https://www.clevelandart.org/art/1946.427)"
-image-path="images/cosmetic-jar-with-a-lid.jpg"
+image-path="images/cosmetic-jar-with-a-lid-2.jpeg"
 %}
 
 Similar to many other ceramic artifacts from this time period, the contents of this jar were likely worth as much as the gold and crystal vase it contained. Many perfume formulations and "perfumed oils" in the Middle Ages were comprised of expensive ingredients such as musk, ambergris, frankincense and floral scents originating from Persia and Central Asia (King). Like the containers themselves, these products were not used solely for fragrances. Instead, they had a deeper cultural significance in terms of "medicinal treatments and religious rituals," representing a connection between cleanliness, medicine and religion (Jones). [^randomthing]
