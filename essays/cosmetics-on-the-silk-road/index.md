@@ -1,8 +1,8 @@
 ---
-author: student name
-title: "Camels on the Silk Road Trade Network"
+author: Maria Matsoukatidi
+title: "Cosmetics on the Silk Road"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
+header-image: images/cosmetics-on-the-silk.jpeg
 thumbnail: images/ota-gate-demo-gray.png
 summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
 ---
