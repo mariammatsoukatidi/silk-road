@@ -31,7 +31,8 @@ image-path="images/glass-flask.jpg"
 
 The powder-based compositions stored in these tubes were made up of extremely sophisticated mineral-based formulas with both visual and practical uses. Galena (lead sulfide), for example, was primarily used to produce deep blacks or malachite (copper carbonate) for a bright green eye cosmetic. These powdered minerals were blended with oil or plant extract to make a uniform paste suitable for use as a cosmetic. [^dell]
 
-[^dell]:[*Caballero-Navas, Carmen. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History*](https://doi.org/10.1016/j.jmedhist.2008.03.007)
+[^dell]:[*McMullen, Roger L., and Giorgio Dell'Acque, "History of Natural Inredients in Cosmetics"*](https://doi.org/10.3390/cosmetics10030071)
+
 
  Many of the other components of the formulae, including certain resinous materials and floral extracts were traded via the Silk Road from Persia and Central Asia.[^king1111]
 
