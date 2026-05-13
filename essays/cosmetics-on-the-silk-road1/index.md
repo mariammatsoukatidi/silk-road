@@ -59,8 +59,8 @@ It is critical to note that historically, cosmetics in all cultures examined her
 [^walter1010]:[*Walter et al., "Egyptian Eye Cosmetics ('Kohls'):Past and Present"*](https://www.sciencedirect.com/science/article/pii/S1871173106800060.)
 
 {% include images/juxtapose.html
-image1="images/kohl.jpeg"
-image2="images/lady-kohl.jpeg"
+image1="images/kohl1.webp"
+image2="images/lady-kohl1.jpeg"
 caption="Kohl powder and how it was applied for eye protection."
 %}
 
