@@ -59,9 +59,6 @@ The inclusion of sapphire on top of this jar further supports that it belonged t
 
 - Caballero-Navas, Carmen. 2008. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History 34 (2): 146–63. [Source] (https://doi.org/10.1016/j.jmedhist.2008.03.007)
 - McMullen, Roger L., and Giorgio Dell’Acqua. “History of Natural Ingredients in Cosmetics.” Cosmetics 10, no. 3 (2023).(https://doi.org/10.3390/cosmetics10030071)
-- Walter, Philippe, et al.
-“Egyptian Eye Cosmetics (‘Kohls’): Past and Present.” In Physical Techniques in the Study of Art, Archaeology and Cultural Heritage, edited by D. Bradley and P. Creagh. Amsterdam: Elsevier, 2006.
-(https://www.sciencedirect.com/science/article/pii/S1871173106800060)
 - Jones, Geoffrey.
 “Cosmetics and Skin Care Products: A Historical Perspective.” Dermatologic Clinics 18, no. 4 (2000): 557–559.
 (https://www.sciencedirect.com/science/article/pii/S0733863505702060)
