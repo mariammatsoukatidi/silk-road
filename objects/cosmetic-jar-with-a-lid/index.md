@@ -27,7 +27,7 @@ image-path="images/cosmetic-jar-with-a-lid-2.jpeg"
 
 Similar to many other ceramic artifacts from this time period, the contents of this jar were likely worth as much as the gold and crystal vase it contained. Many perfume formulations and "perfumed oils" in the Middle Ages were comprised of expensive ingredients such as musk, ambergris, frankincense and floral scents originating from Persia and Central Asia (King). Like the containers themselves, these products were not used solely for fragrances. Instead, they had a deeper cultural significance in terms of "medicinal treatments and religious rituals," representing a connection between cleanliness, medicine and religion. [^jones112]
 
-[^jones112]::[*Jones, Geoffrey. Cosmetics and Skin Care Products: A Historical Perspective*](https://www.sciencedirect.com/science/article/pii/S0733863505702060)
+[^jones112]:[*Jones, Geoffrey. Cosmetics and Skin Care Products: A Historical Perspective*](https://www.sciencedirect.com/science/article/pii/S0733863505702060)
 
 As in neighboring Islamic regions, these oils served as a method of maintaining good health through proper care of one's skin and hair and demonstrated an active concern for "the well-being of women's beauty" across national boundaries (Caballero-Navas). Historians have documented that in addition to sharing similar preparations methods for cosmetics and perfumes, the Byzantine upper-class exchanged recipes with neighboring Jewish and Islamic communities creating a common practice of promoting overall health and wellness. [^caballero112]
 
@@ -51,7 +51,7 @@ The inclusion of sapphire on top of this jar further supports that it belonged t
 ## Economic Value
  Overall, this jar serves as a tangible example of the massive amounts of botanical and mineral wealth being traded via the Silk Road and highlights that people worldwide sought to beautify themselves through various internationally-sourced natural resources. [^caballeromcmullen]
 
-[^caballeromcmullen]:[*Caballero-Navas, Carmen. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History*](https://doi.org/10.1016/j.jmedhist.2008.03.007)[*McMullen, Roger L., and Giorgio Dell'Acque, "History of Natural Inredients in Cosmetics"*](https://doi.org/10.3390/cosmetics10030071)
+[^caballeromcmullen]:[*Caballero-Navas, Carmen. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History*](https://doi.org/10.1016/j.jmedhist.2008.03.007) [*McMullen, Roger L., and Giorgio Dell'Acque, "History of Natural Inredients in Cosmetics"*](https://doi.org/10.3390/cosmetics10030071)
 
 ---
 
