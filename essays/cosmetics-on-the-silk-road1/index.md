@@ -1,10 +1,10 @@
 ---
-author: student name
-title: "Camels on the Silk Road Trade Network"
+author: Maria Matsoukatidi
+title: "Cosmetics on the Silk Road"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-gray.png
-summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
+header-image: images/cosmetics-silk-1.jpeg
+thumbnail: images/cosmetics-thumb.jpeg
+summary: All along the Silk Road, we can see how cosmetics start to appear and being traded among different cultures.
 ---
 
 # Cosmetics on the Silk Road
@@ -68,3 +68,20 @@ caption="Two shades of color on the Ota Gate."
 ## Cosmetics on the Silk Road Facilitate Global Communication & Human Connection
 
 The Cosmetic Culture of the Silk Road represents the integration of two major dimensions of society: economics & chemistry. The Cosmetics used along the Silk Road represented an ideal way to foster a sense of unity across various cultures. As a result, this project will explore how Beauty Rituals have been able to transcend both physical borders as well as the rigid barriers created by religion. Ceramic figures from Elite Women in the cosmopolitan Tang Capital of Chang'an, China as well as in the remote oases of Turpan, demonstrate the use of White Lead Powders and Floral Rouges which were imported from Central Asia to signify the Social Status of these Elite Women. At the same time, during the Medieval Period in the Mediterranean Region, there are records of the elite classes of Byzantium exchanging knowledge about Cosmetic Preparation Techniques and Recipes with the surrounding Jewish and Muslim communities, establishing a collaborative dialogue regarding Wellness/Fashion Culture. This Dialogue was established beyond the confines of Geopolitical Conflict. [^caballero1010] Even within Sacred Contexts, such as the Parshvanatha Jain Temple, a Sculpture depicting a Celestial Beauty Applying Eye Makeup demonstrates how Personal Grooming has become Divinized and integrated into the Religious Fabric of the Era. Ultimately, this highlights the idea that the Human Body is reflective of Cosmic/Spiritual Harmony. [^kingjones]
+
+[^caballero1010]:[*Caballero-Navas, Carmen. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History*](https://doi.org/10.1016/j.jmedhist.2008.03.007)
+
+[^kingjones]:[*King, Anya. “Medieval Islamicate Aromatherapy: Medical Perspectives on Aromatics and Perfumes.” The Senses and Society*](https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606), [*Jones, Geoffrey. Cosmetics and Skin Care Products: A Historical Perspective*](https://www.sciencedirect.com/science/article/pii/S0733863505702060)
+
+## Bibliography
+
+- Caballero-Navas, Carmen. 2008. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History 34 (2): 146–63. [Source] (https://doi.org/10.1016/j.jmedhist.2008.03.007)
+- McMullen, Roger L., and Giorgio Dell’Acqua. “History of Natural Ingredients in Cosmetics.” Cosmetics 10, no. 3 (2023).(https://doi.org/10.3390/cosmetics10030071)
+- Walter, Philippe, et al.
+“Egyptian Eye Cosmetics (‘Kohls’): Past and Present.” In Physical Techniques in the Study of Art, Archaeology and Cultural Heritage, edited by D. Bradley and P. Creagh. Amsterdam: Elsevier, 2006.
+(https://www.sciencedirect.com/science/article/pii/S1871173106800060)
+- Jones, Geoffrey.
+“Cosmetics and Skin Care Products: A Historical Perspective.” Dermatologic Clinics 18, no. 4 (2000): 557–559.
+(https://www.sciencedirect.com/science/article/pii/S0733863505702060)
+- King, Anya. “Medieval Islamicate Aromatherapy: Medical Perspectives on Aromatics and Perfumes.” The Senses and Society 17, no. 1 (2022): 37–51.
+[Source](https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606)
