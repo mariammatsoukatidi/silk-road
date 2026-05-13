@@ -57,10 +57,10 @@ The inclusion of sapphire on top of this jar further supports that it belonged t
 
 ## Bibliography
 
-- Caballero-Navas, Carmen. 2008. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History 34 (2): 146–63. [Source] (https://doi.org/10.1016/j.jmedhist.2008.03.007)
-- McMullen, Roger L., and Giorgio Dell’Acqua. “History of Natural Ingredients in Cosmetics.” Cosmetics 10, no. 3 (2023).(https://doi.org/10.3390/cosmetics10030071)
+- Caballero-Navas, Carmen. 2008. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History 34 (2): 146–63. [Source](https://doi.org/10.1016/j.jmedhist.2008.03.007)
+- McMullen, Roger L., and Giorgio Dell’Acqua. “History of Natural Ingredients in Cosmetics.” Cosmetics 10, no. 3 (2023).[Source](https://doi.org/10.3390/cosmetics10030071)
 - Jones, Geoffrey.
 “Cosmetics and Skin Care Products: A Historical Perspective.” Dermatologic Clinics 18, no. 4 (2000): 557–559.
-(https://www.sciencedirect.com/science/article/pii/S0733863505702060)
+[Source](https://www.sciencedirect.com/science/article/pii/S0733863505702060)
 - King, Anya. “Medieval Islamicate Aromatherapy: Medical Perspectives on Aromatics and Perfumes.” The Senses and Society 17, no. 1 (2022): 37–51.
-(https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606)
+[Source](https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606)
