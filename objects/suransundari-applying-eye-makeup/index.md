@@ -1,5 +1,5 @@
 ---
-author: student name
+author: Maria Matsoukatidi
 title: "Suransundari Applying Eye Makeup"
 layout: base
 header-image: images/suransundari-header.jpeg

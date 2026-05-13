@@ -1,14 +1,14 @@
-# Image manifest for Chiles scrollstory
-# Run: python scripts/fetch_commons_images.py --manifest essays/campus_legends_chile/images/manifest.yml
+# Image manifest for Nachos ScrollStory
+# Run: python scripts/fetch_commons_images.py --manifest essays/nachos/images/manifest.yml
 
 default_limit: 3
 images:
-  - query: "chile pepper dried"
+  - query: "nachos"
     prefix: "carousel"
-    limit: 3
-  - query: "red chile ristra"
+    limit: 5
+  - query: "nachos closeup"
     prefix: "figure"
-    limit: 1
-  - query: "chile harvest"
+    limit: 2
+  - query: "nachos cooking"
     prefix: "bg"
-    limit: 1
+    limit: 2

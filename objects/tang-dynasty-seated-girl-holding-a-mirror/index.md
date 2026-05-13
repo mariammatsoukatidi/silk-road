@@ -1,5 +1,5 @@
 ---
-author: student name
+author: Maria Matsoukatidi
 title: "Seated Girl Holding A Mirror"
 layout: base
 header-image: images/tang-header.jpeg

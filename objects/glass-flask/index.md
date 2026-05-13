@@ -1,5 +1,5 @@
 ---
-author: student name
+author: Maria Matsoukatidi
 title: "Glass Multiple Cosmetic Flask"
 layout: base
 header-image: images/flask-header.jpeg

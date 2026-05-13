@@ -1,5 +1,5 @@
 ---
-author: student name
+author: Maria Matsoukatidi
 title: "Cosmetic Jar With A Lid"
 layout: base
 header-image: images/jar-3.jpeg
