@@ -19,7 +19,7 @@ The figurine, made from terracotta and adorned in the three-color (sancai) lead-
 
 [^caballero]:[*Caballero-Navas, Carmen. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History*](. https://doi.org/10.1016/j.jmedhist.2008.03.007)
 
-[^jones2]:[*Jones, Geoffrey. Cosmetics and Skin Care Products: A Historical Perspective]*(https://www.sciencedirect.com/science/article/pii/S0733863505702060)
+[^jones2]:[*Jones, Geoffrey. Cosmetics and Skin Care Products: A Historical Perspective*](https://www.sciencedirect.com/science/article/pii/S0733863505702060)
 
 ## Chemistry behind Sancai and Beauty Products
 {% include images/figure.html
@@ -42,10 +42,11 @@ By the late seventh or early eighth century CE, members of Chinese elite moved f
 Additionally, this movement towards mineral-based beauty products was facilitated by western merchants who exported exotic raw materials, scented oils, and new beauty methods. [^king3]
 
 [^king3]:[*King, Anya. “Medieval Islamicate Aromatherapy: Medical Perspectives on Aromatics and Perfumes.” The Senses and Society*](https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606)
+
 ---
 
 ## Burial Practice and Legacy of the Silk Road
-As part of burial practice, this figurine served as mingqi (spirit goods) intended to support the deceased person throughout eternity. The Chinese viewed death as a continuation of the social hierarchy where the deceased needed all the necessary tools to provide for themselves in terms of "refinement and luxury" within the spiritual realm.
+As part of burial practice, this figurine served as mingqi (spirit goods) intended to support the deceased person throughout eternity. The Chinese viewed death as a continuation of the social hierarchy where the deceased needed all the necessary tools to provide for themselves in terms of "refinement and luxury" within the spiritual realm. [^jones112]
 
 [^jones112]:[*Jones, Geoffrey. Cosmetics and Skin Care Products: A Historical Perspective]*(https://www.sciencedirect.com/science/article/pii/S0733863505702060)
 
@@ -56,9 +57,11 @@ Moreover, having her sitting upon a "waist-stool" symbolizes a great shift in ho
 
 
 ## Preparation Techniques
-Additionally, scholars have pointed out that "the preparation techniques and ingredients" for cosmetics employed by this young woman were often shared by medieval Jewish-Christian-Islamic women and thus demonstrate that beauty was a "commonality" among multiple civilizations (Caballero-Navas, 48). The detail required to create her coiffure-a "high-piled bun"-was accomplished using special hair oils and wax-setting agents that included aromatic substances delivered from Southeast Asia and the Middle East. Therefore, even everyday practices like styling hair illustrate how every aspect of daily life depended upon stable long-distance commercial activity. Overall, this figurine is a consumer at the very end of a global distribution network and exemplifies the fusion of ceramics technology, botanical knowledge, and international trade. [^king]
+Additionally, scholars have pointed out that "the preparation techniques and ingredients" for cosmetics employed by this young woman were often shared by medieval Jewish-Christian-Islamic women and thus demonstrate that beauty was a "commonality" among multiple civilizations. [^caballero2] The detail required to create her coiffure-a "high-piled bun"-was accomplished using special hair oils and wax-setting agents that included aromatic substances delivered from Southeast Asia and the Middle East. Therefore, even everyday practices like styling hair illustrate how every aspect of daily life depended upon stable long-distance commercial activity. Overall, this figurine is a consumer at the very end of a global distribution network and exemplifies the fusion of ceramics technology, botanical knowledge, and international trade. [^king]
 
-[^king]:[*“Medieval Islamicate Aromatherapy: Medical Perspectives on Aromatics and Perfumes.” The Senses and Society*](https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606)
+[^caballero2]:[*Caballero-Navas, Carmen. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History*](https://doi.org/10.1016/j.jmedhist.2008.03.007)
+
+[^king]:[*King, Anya. “Medieval Islamicate Aromatherapy: Medical Perspectives on Aromatics and Perfumes.” The Senses and Society*](https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606)
 
 ---
 
