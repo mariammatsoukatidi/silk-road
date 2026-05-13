@@ -2,7 +2,7 @@
 author: Maria Matsoukatidi
 title: "Cosmetics on the Silk Road"
 layout: base
-header-image: images/cosmetics-silk.jpeg
+header-image: images/cosmetics-silk-1.jpeg
 thumbnail: images/ota-gate-demo-brown.png
 summary: All along the Silk Road trade network multi-lingual contexts shaped the customs of exchange and travel.
 ---
