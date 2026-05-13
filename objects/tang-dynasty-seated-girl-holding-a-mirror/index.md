@@ -5,8 +5,8 @@ layout: base
 header-image: images/tang-header.jpeg
 thumbnail: images/tang-dynasty-girl.jpeg
 summary: Figurine from the Tang Dynasty era featuring a girl applying makeup.
-geo: [39.877, 64.408]
-placename: Bukhara
+geo: [34.263, 108.948]
+placename: Xi'an
 tags:
   - object
 ---
