@@ -2,7 +2,7 @@
 author: student name
 title: "Glass Multiple Cosmetic Flask"
 layout: base
-header-image: images/glass-flask.jpg
+header-image: images/flask-header.jpeg
 thumbnail: images/glass-flask.jpg
 summary: Glass flask from Syrian/Roman culture.
 geo: [33.563, 35.369]
