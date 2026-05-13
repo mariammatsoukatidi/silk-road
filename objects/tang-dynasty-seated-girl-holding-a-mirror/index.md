@@ -48,7 +48,7 @@ Additionally, this movement towards mineral-based beauty products was facilitate
 ## Burial Practice and Legacy of the Silk Road
 As part of burial practice, this figurine served as mingqi (spirit goods) intended to support the deceased person throughout eternity. The Chinese viewed death as a continuation of the social hierarchy where the deceased needed all the necessary tools to provide for themselves in terms of "refinement and luxury" within the spiritual realm. [^jones112]
 
-[^jones112]:[*Jones, Geoffrey. Cosmetics and Skin Care Products: A Historical Perspective]*(https://www.sciencedirect.com/science/article/pii/S0733863505702060)
+[^jones112]:[*Jones, Geoffrey. Cosmetics and Skin Care Products: A Historical Perspective*](https://www.sciencedirect.com/science/article/pii/S0733863505702060)
 
 It is especially important to recognize the significance of the mirror found here; mirrors were rare luxury items made from cast bronze and commonly decorated with floral patterns or animals originating from Persia and Central Asia. 
 
@@ -67,7 +67,7 @@ Additionally, scholars have pointed out that "the preparation techniques and ing
 
 ## Bibliography
 
-- Caballero-Navas, Carmen. 2008. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History 34 (2): 146–63. (https://doi.org/10.1016/j.jmedhist.2008.03.007)
+- Caballero-Navas, Carmen. 2008. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women.” Journal of Medieval History 34 (2): 146–63. [Source] (https://doi.org/10.1016/j.jmedhist.2008.03.007)
 - McMullen, Roger L., and Giorgio Dell’Acqua. “History of Natural Ingredients in Cosmetics.” Cosmetics 10, no. 3 (2023).(https://doi.org/10.3390/cosmetics10030071)
 - Walter, Philippe, et al.
 “Egyptian Eye Cosmetics (‘Kohls’): Past and Present.” In Physical Techniques in the Study of Art, Archaeology and Cultural Heritage, edited by D. Bradley and P. Creagh. Amsterdam: Elsevier, 2006.
