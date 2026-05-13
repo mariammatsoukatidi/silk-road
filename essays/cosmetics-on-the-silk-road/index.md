@@ -10,7 +10,7 @@ summary: All along the Silk Road, we can see how cosmetics start to appear and b
 
 Historically, the Silk Road has been described as a major commercial route used for the transportation of luxury items including silk fabrics, jades, and expensive spices. However, recent discoveries using the disciplines of archaeology, material culture studies, and chemical analysis have revealed that it also served as a dynamic “chemical highway” for the transportation of raw minerals, plant extracts, and cosmetic technologies across the ancient world. [^king20]
 
-[^kind20]:[*King, Anya. “Medieval Islamicate Aromatherapy: Medical Perspectives on Aromatics and Perfumes.” The Senses and Society*](https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606)
+[^king20]:[*King, Anya. “Medieval Islamicate Aromatherapy: Medical Perspectives on Aromatics and Perfumes.” The Senses and Society*](https://www.tandfonline.com/doi/full/10.1080/17458927.2021.2020606)
 
 
 Throughout history, individuals pursued personal adornment not merely for vanity but because they believed that beauty rituals reflected their social status and identity. Beauty rituals played an important role in establishing and maintaining cultural identities by providing cross-cultural indicators of political power, gender roles, and economic wealth. [^jones202] Cosmetics in the form of makeup, fragrances, and perfumes were a fundamental component of this pursuit. Examples include the imperial courtrooms of the Chinese Tang Dynasty, the temples of medieval India, and the trading centers of the Levant to the palaces of the Byzantine Empire. 
